@@ -49,6 +49,20 @@ The workflow is:
 7\. Processing status is recorded in Excel.
 
 
+## Screenshots
+
+### Payment Data
+
+The workbook organizes electronic payment information for processing and vendor notification.
+
+![Vendor payment data](images/wires-demo.png)
+
+### Generated Vendor Payment Email
+
+The automation creates a formatted Outlook email containing the applicable payment details. The public version is configured to display emails for review rather than automatically sending them.
+
+![Generated vendor payment email](images/generated-email-demo.png)
+
 
 \## Key Features
 
